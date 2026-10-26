@@ -1,0 +1,11 @@
+
+{
+  "schemaVersion": 1,
+  "app": "HAJ VPN",
+  "updatedAt": "2026-10-26",
+  "bundledCore": {
+    "version": "26.9.9",
+    "status": "bundled"
+  },
+  "versions": []
+}
